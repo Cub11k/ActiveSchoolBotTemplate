@@ -29,7 +29,7 @@ def check_team_name(name: str) -> bool:
         return False
     
     for symb in name:
-        if should_upper and not symb in UPPER_LETTERS:
+        if should_upper and not (symb in UPPER_LETTERS):
             return False
         elif symb == CONNECT_SYMB or symb == EMPTY_SYMB:
             should_upper = True
