@@ -42,12 +42,12 @@ file_path = "logs/myapp.log"
 format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 [messages]
-welcome = "Приветствую! Это бот ША-2023. Именно здесь вы можете предварительно зарегистрироваться на квест."  # TODO
-help = "Как зарегистрироваться: Сначала напиши команду /reg, затем, в следующем сообщении напиши свои ФИО \n Как зарегистрироваться КПшнику: Сначала напиши команду /manager_reg, затем действовать согласно инструкции"  # TODO
+welcome = "Приветствую! Это бот ША-2023. Именно здесь вы можете зарегистрироваться на квест."  # TODO
+help = "Регистрация команды: /reg \n\nРегистрция КПшника: /manager_reg <пароль>\n\nРегистрация Администратора: /admin_reg <пароль>"  # TODO
 anti_flood = "Пожалуйста, прекрати, я и с первого раза понял"  # TODO
 unknown_update = "Данная функция пока что не согласована командой оргов, все претензии к ним"  # TODO, be creative
 rating = "Rating message:\n\n{}"
-not_enough_teams = "Недостаточно команд для начала игры"
+not_enough_teams = "Недостаточно участников для начала игры"
 not_enough_points = "Недостаточно КПшек для начала игры"
 starting_point = "Your starting point: {}"
 broadcast_failures = "Broadcast failures:\n\n{}"
@@ -55,7 +55,7 @@ broadcast_success = "Broadcast success"
 game_started = "Game started"
 invalid_admin_password = "Invalid admin password"
 admin_password_set = "Admin password set"
-admin_registered = "Admin registered"
+admin_registered = "Администратор зарегистрирован"
 choose_team = "Выберите команду"
 get_add_balance_amount = "Enter amount to add"
 balance_added = "Balance added"
@@ -65,10 +65,10 @@ manager_registered = "Manager registered"
 invalid_point_name = "Invalid point name"
 point_registered = "Point registered"
 team_balance = "Ваш баланс: {}"
-get_teamname = "Напиши свое ФИО:"
+get_teamname = "Напишите название своей команды:"
 team_registered = "Вы успешно зарегистрированы!"
-invalid_teamname = "Некорректное имя, пожалуйста, выбери другое"
-teamname_taken = "Имя занято, пожалуйста, выбери другое"
+invalid_teamname = "Некорректное название, пожалуйста, выберите другое"
+teamname_taken = "Название занято, пожалуйста, выберите другое"
 
 
 [buttons]
