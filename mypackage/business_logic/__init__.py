@@ -91,10 +91,10 @@ def assign_starting_point_messages(teams: dict[int, dict], points: list[str], ba
         if (len(teams.keys()) > len(points)):
             raise ValueError
 
-        counter = 1
+        counter = 0
         for i in teams.keys():
             team_chat = teams[i]['chat_id']
-            result[team_chat] = base_message.format(counter)
+            result[team_chat] = base_message.format(points[counter])
             counter += 1
 
     except ValueError:
