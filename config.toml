@@ -43,7 +43,7 @@ format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 [messages]
 welcome = "Приветствую! Это бот ША-2023. Именно здесь вы можете зарегистрироваться на квест."  # TODO
-help = "Регистрация команды: /reg \n\nРегистрция КПшника: /manager_reg <пароль>\n\nРегистрация Администратора: /admin_reg <пароль>"  # TODO
+help = "Регистрация команды: /reg \n\nРегистрция КПшника:\n /manager_reg <пароль>\n\nРегистрация Администратора:\n /admin_reg <пароль>"  # TODO
 anti_flood = "Пожалуйста, прекрати, я и с первого раза понял"  # TODO
 unknown_update = "Данная функция пока что не согласована командой оргов, все претензии к ним"  # TODO, be creative
 rating = "Rating message:\n\n{}"
