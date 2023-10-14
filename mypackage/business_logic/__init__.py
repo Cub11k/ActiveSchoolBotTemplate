@@ -49,7 +49,6 @@ def check_manager_password(password_hash: str, user_input: str) -> bool:
     result = True
     if hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest() != password_hash:
         result = False
-    # Get the sha_256 hash of the input and compare it with the password_hash
     return result
 
 
