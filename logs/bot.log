@@ -9,3 +9,771 @@
 2023-10-14 15:10:25,895 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
 2023-10-14 15:10:28,930 - BotLogger - DEBUG - User 1952435554 @mrovensky has tested the system
 2023-10-14 15:12:45,693 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested help
+2023-10-14 15:25:24,402 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 15:25:30,766 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 15:25:37,060 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 15:25:40,087 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 15:25:53,755 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 15:25:58,361 - BotLogger - DEBUG - User 1952435554 @mrovensky has tried to register
+2023-10-14 15:57:48,762 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:04:31,169 - BotLogger - DEBUG - User 533316709 @heavyhazetag started the bot
+2023-10-14 16:04:32,466 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:04:36,377 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested help
+2023-10-14 16:04:37,634 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:04:46,093 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:04:58,340 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:05:05,863 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:05:05,863 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team Noice
+2023-10-14 16:05:08,819 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:06:11,949 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:27:12,161 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:27:17,968 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:27:32,577 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,323 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,324 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:28:37,524 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:28:39,102 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:28:52,702 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:28:54,702 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:29:02,755 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:29:06,844 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:11,639 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:23,025 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:25,412 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:41,863 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:44,147 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:54,280 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:56,197 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:31:13,434 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:22,876 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:31:25,802 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:31:37,040 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:31:40,737 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:31:40,738 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team abacaba
+2023-10-14 16:31:45,941 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:58,395 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:32:07,738 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:32:31,305 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:32:38,184 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team ab
+2023-10-14 16:32:43,483 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:23,501 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:25,271 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team 1
+2023-10-14 16:33:38,860 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:43,102 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:52,414 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:38:12,027 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:38:45,149 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:38:53,004 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:38:57,403 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:39:03,685 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:39:04,940 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:39:41,218 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:40:07,532 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:18,018 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:40:21,492 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:39,835 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:41:45,463 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:41:53,954 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:42:05,567 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:42:43,530 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:42:52,849 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:43:07,202 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:43:07,203 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:43:19,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:28,677 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:43:38,224 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 16:43:38,225 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 16:43:43,106 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:47,425 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:44:21,916 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:25,242 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:44:38,694 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:44:39,134 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:44:42,035 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:44:43,647 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:44:48,551 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:44:52,432 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:44:52,434 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:44:55,167 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:58,638 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 839001419
+2023-10-14 16:45:01,021 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:01,937 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 100
+2023-10-14 16:45:03,877 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:45:05,242 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:10,780 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:18,895 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:20,368 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:45:25,265 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:07,067 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:14,278 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:27,205 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested reset
+2023-10-14 16:46:31,767 - BotLogger - DEBUG - User 533316709 @heavyhazetag started the registration
+2023-10-14 16:46:41,506 - BotLogger - DEBUG - User 533316709 @heavyhazetag entered team name
+2023-10-14 16:46:58,204 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:47:11,149 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:47:39,412 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:47:51,216 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:51,218 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:53:39,715 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:53:50,034 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:53:58,503 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:54:48,023 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:56:40,383 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:56:52,455 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:57:01,725 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:57:42,254 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:58:09,086 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:58:59,754 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:59:06,570 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:41,314 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:00:49,536 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:55,453 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:01,208 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:48,002 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:05,450 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:11,910 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:03:14,930 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:03:17,545 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:03:23,198 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:03:32,347 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:04:00,074 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:04:07,137 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:04:56,995 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:05:02,958 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:02,733 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:06:03,606 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:06:06,476 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:06,477 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:06:15,743 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:23,633 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:27,052 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested help
+2023-10-14 17:06:47,074 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:06:50,524 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:54,684 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:06:58,248 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:07:14,797 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:07:19,954 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:07:19,955 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:07:24,315 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:07:30,195 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:15,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:08:19,778 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:08:28,587 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:28,588 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:08:35,583 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:37,580 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:08:39,668 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:08:46,699 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:50,500 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:09:04,933 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:18,879 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:09:22,128 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:26,156 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:09:33,432 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:09:51,625 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:05,648 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:10:19,505 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:10:23,467 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:28,895 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:35,375 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:40,781 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:10:40,782 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:10:43,818 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:10:48,532 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:11:02,386 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:11:04,946 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 1952435554
+2023-10-14 17:11:06,483 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 1
+2023-10-14 17:11:12,208 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:11:21,189 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:11:39,675 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:12:13,413 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:12:15,063 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:27:12,161 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:27:17,968 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:27:32,577 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,323 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,324 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:28:37,524 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:28:39,102 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:28:52,702 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:28:54,702 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:29:02,755 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:29:06,844 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:11,639 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:23,025 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:25,412 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:41,863 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:44,147 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:54,280 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:56,197 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:31:13,434 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:22,876 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:31:25,802 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:31:37,040 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:31:40,737 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:31:40,738 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team abacaba
+2023-10-14 16:31:45,941 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:58,395 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:32:07,738 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:32:31,305 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:32:38,184 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team ab
+2023-10-14 16:32:43,483 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:23,501 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:25,271 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team 1
+2023-10-14 16:33:38,860 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:43,102 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:52,414 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:38:12,027 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:38:45,149 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:38:53,004 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:38:57,403 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:39:03,685 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:39:04,940 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:39:41,218 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:40:07,532 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:18,018 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:40:21,492 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:39,835 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:41:45,463 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:41:53,954 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:42:05,567 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:42:43,530 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:42:52,849 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:43:07,202 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:43:07,203 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:43:19,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:28,677 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:43:38,224 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 16:43:38,225 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 16:43:43,106 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:47,425 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:44:21,916 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:25,242 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:44:38,694 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:44:39,134 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:44:42,035 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:44:43,647 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:44:48,551 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:44:52,432 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:44:52,434 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:44:55,167 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:58,638 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 839001419
+2023-10-14 16:45:01,021 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:01,937 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 100
+2023-10-14 16:45:03,877 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:45:05,242 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:10,780 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:18,895 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:20,368 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:45:25,265 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:07,067 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:14,278 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:27,205 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested reset
+2023-10-14 16:46:31,767 - BotLogger - DEBUG - User 533316709 @heavyhazetag started the registration
+2023-10-14 16:46:41,506 - BotLogger - DEBUG - User 533316709 @heavyhazetag entered team name
+2023-10-14 16:46:58,204 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:47:11,149 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:47:39,412 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:47:51,216 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:51,218 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:53:39,715 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:53:50,034 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:53:58,503 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:54:48,023 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:56:40,383 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:56:52,455 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:57:01,725 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:57:42,254 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:58:09,086 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:58:59,754 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:59:06,570 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:41,314 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:00:49,536 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:55,453 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:01,208 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:48,002 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:05,450 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:11,910 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:03:14,930 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:03:17,545 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:03:23,198 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:03:32,347 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:04:00,074 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:04:07,137 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:04:56,995 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:05:02,958 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:02,733 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:06:03,606 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:06:06,476 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:06,477 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:06:15,743 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:23,633 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:27,052 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested help
+2023-10-14 17:06:47,074 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:06:50,524 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:54,684 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:06:58,248 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:07:14,797 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:07:19,954 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:07:19,955 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:07:24,315 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:07:30,195 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:15,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:08:19,778 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:08:28,587 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:28,588 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:08:35,583 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:37,580 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:08:39,668 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:08:46,699 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:50,500 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:09:04,933 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:18,879 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:09:22,128 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:26,156 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:09:33,432 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:09:51,625 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:05,648 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:10:19,505 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:10:23,467 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:28,895 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:35,375 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:40,781 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:10:40,782 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:10:43,818 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:10:48,532 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:11:02,386 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:11:04,946 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 1952435554
+2023-10-14 17:11:06,483 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 1
+2023-10-14 17:11:12,208 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:11:21,189 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:11:39,675 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:12:13,413 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:12:15,063 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:27:12,161 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:27:17,968 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:27:32,577 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,323 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,324 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:28:37,524 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:28:39,102 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:28:52,702 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:28:54,702 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:29:02,755 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:29:06,844 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:11,639 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:23,025 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:25,412 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:41,863 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:44,147 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:54,280 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:56,197 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:31:13,434 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:22,876 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:31:25,802 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:31:37,040 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:31:40,737 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:31:40,738 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team abacaba
+2023-10-14 16:31:45,941 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:58,395 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:32:07,738 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:32:31,305 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:32:38,184 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team ab
+2023-10-14 16:32:43,483 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:23,501 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:25,271 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team 1
+2023-10-14 16:33:38,860 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:43,102 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:52,414 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:38:12,027 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:38:45,149 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:38:53,004 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:38:57,403 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:39:03,685 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:39:04,940 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:39:41,218 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:40:07,532 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:18,018 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:40:21,492 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:39,835 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:41:45,463 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:41:53,954 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:42:05,567 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:42:43,530 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:42:52,849 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:43:07,202 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:43:07,203 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:43:19,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:28,677 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:43:38,224 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 16:43:38,225 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 16:43:43,106 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:47,425 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:44:21,916 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:25,242 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:44:38,694 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:44:39,134 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:44:42,035 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:44:43,647 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:44:48,551 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:44:52,432 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:44:52,434 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:44:55,167 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:58,638 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 839001419
+2023-10-14 16:45:01,021 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:01,937 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 100
+2023-10-14 16:45:03,877 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:45:05,242 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:10,780 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:18,895 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:20,368 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:45:25,265 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:07,067 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:14,278 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:27,205 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested reset
+2023-10-14 16:46:31,767 - BotLogger - DEBUG - User 533316709 @heavyhazetag started the registration
+2023-10-14 16:46:41,506 - BotLogger - DEBUG - User 533316709 @heavyhazetag entered team name
+2023-10-14 16:46:58,204 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:47:11,149 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:47:39,412 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:47:51,216 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:51,218 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:53:39,715 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:53:50,034 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:53:58,503 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:54:48,023 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:56:40,383 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:56:52,455 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:57:01,725 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:57:42,254 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:58:09,086 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:58:59,754 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:59:06,570 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:41,314 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:00:49,536 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:55,453 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:01,208 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:48,002 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:05,450 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:11,910 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:03:14,930 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:03:17,545 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:03:23,198 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:03:32,347 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:04:00,074 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:04:07,137 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:04:56,995 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:05:02,958 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:02,733 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:06:03,606 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:06:06,476 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:06,477 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:06:15,743 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:23,633 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:27,052 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested help
+2023-10-14 17:06:47,074 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:06:50,524 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:54,684 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:06:58,248 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:07:14,797 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:07:19,954 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:07:19,955 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:07:24,315 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:07:30,195 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:15,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:08:19,778 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:08:28,587 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:28,588 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:08:35,583 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:37,580 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:08:39,668 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:08:46,699 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:50,500 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:09:04,933 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:18,879 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:09:22,128 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:26,156 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:09:33,432 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:09:51,625 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:05,648 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:10:19,505 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:10:23,467 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:28,895 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:35,375 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:40,781 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:10:40,782 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:10:43,818 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:10:48,532 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:11:02,386 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:11:04,946 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 1952435554
+2023-10-14 17:11:06,483 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 1
+2023-10-14 17:11:12,208 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:11:21,189 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:11:39,675 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:12:13,413 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:12:15,063 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:27:12,161 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:27:17,968 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:27:32,577 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,323 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:27:45,324 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:28:37,524 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:28:39,102 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:28:52,702 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:28:54,702 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:29:02,755 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:29:06,844 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:11,639 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:23,025 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:25,412 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:41,863 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:44,147 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:29:54,280 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:29:56,197 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:31:13,434 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:22,876 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:31:25,802 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:31:37,040 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:31:40,737 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:31:40,738 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team abacaba
+2023-10-14 16:31:45,941 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:31:58,395 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:32:07,738 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 16:32:31,305 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:32:38,184 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:32:40,831 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team ab
+2023-10-14 16:32:43,483 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:23,501 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:25,271 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 16:33:26,974 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as team 1
+2023-10-14 16:33:38,860 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:33:43,102 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:33:52,414 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:33:59,923 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:38:12,027 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:38:45,149 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:38:53,004 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:38:57,403 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:39:03,685 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:39:04,940 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:39:41,218 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:40:07,532 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:18,018 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:40:21,492 - BotLogger - DEBUG - User 1952435554 @mrovensky set admin password
+2023-10-14 16:40:39,835 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:40:55,958 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:41:45,463 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:41:53,954 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:42:05,567 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:42:43,530 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started the bot
+2023-10-14 16:42:52,849 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:43:07,202 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:43:07,203 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:43:19,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:28,677 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:43:38,224 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 16:43:38,225 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 16:43:43,106 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:43:47,425 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:44:21,916 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:25,242 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 16:44:38,694 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:44:39,134 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the bot
+2023-10-14 16:44:42,035 - BotLogger - DEBUG - User 839001419 @HBPotatoChips started the registration
+2023-10-14 16:44:43,647 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:44:48,551 - BotLogger - DEBUG - User 839001419 @HBPotatoChips entered team name
+2023-10-14 16:44:52,432 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:44:52,434 - BotLogger - DEBUG - User 725438903 @Catherine_Fish registered as admin
+2023-10-14 16:44:55,167 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 16:44:58,638 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 839001419
+2023-10-14 16:45:01,021 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:01,937 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 100
+2023-10-14 16:45:03,877 - BotLogger - DEBUG - User 725438903 @Catherine_Fish set admin password
+2023-10-14 16:45:05,242 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:10,780 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:18,895 - BotLogger - DEBUG - User 839001419 @HBPotatoChips in chat 839001419sent an unhandled message with content_type "text"
+2023-10-14 16:45:20,368 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:45:25,265 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:07,067 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:14,278 - BotLogger - DEBUG - User 533316709 @heavyhazetag in chat 533316709sent an unhandled message with content_type "text"
+2023-10-14 16:46:27,205 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested reset
+2023-10-14 16:46:31,767 - BotLogger - DEBUG - User 533316709 @heavyhazetag started the registration
+2023-10-14 16:46:41,506 - BotLogger - DEBUG - User 533316709 @heavyhazetag entered team name
+2023-10-14 16:46:58,204 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:07,724 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:47:11,149 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 16:47:39,412 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:47:51,216 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:47:51,218 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 16:53:39,715 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:53:50,034 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:53:58,503 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:54:48,023 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:56:40,383 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:56:52,455 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 16:57:01,725 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 16:57:42,254 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 16:58:09,086 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 16:58:59,754 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 16:59:06,570 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:41,314 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:00:49,536 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:00:55,453 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:01,208 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:01:48,002 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:05,450 - BotLogger - DEBUG - User 725438903 @Catherine_Fish in chat 725438903sent an unhandled message with content_type "text"
+2023-10-14 17:03:11,910 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:03:14,930 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:03:17,545 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:03:23,198 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:03:32,347 - BotLogger - DEBUG - User 725438903 @Catherine_Fish started admin registration
+2023-10-14 17:04:00,074 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:04:07,137 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:04:56,995 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:05:02,958 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:02,733 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:06:03,606 - BotLogger - DEBUG - User 725438903 @Catherine_Fish requested reset
+2023-10-14 17:06:06,476 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:06,477 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:06:15,743 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:23,633 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:06:27,052 - BotLogger - DEBUG - User 533316709 @heavyhazetag requested help
+2023-10-14 17:06:47,074 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:06:50,524 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:06:54,684 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:06:58,248 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:07:14,797 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:07:19,954 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:07:19,955 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:07:24,315 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:07:30,195 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:15,257 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:08:19,778 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:08:28,587 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:28,588 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:08:35,583 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:37,580 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:08:39,668 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:08:46,699 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:08:50,500 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:08:59,604 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:09:04,933 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:18,879 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:09:22,128 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:09:26,156 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:09:30,686 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:09:33,432 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:09:51,625 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:05,648 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:10:19,505 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:10:23,467 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:28,895 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:10:35,375 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:40,781 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:10:40,782 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:10:43,818 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:10:48,532 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky started manager registration
+2023-10-14 17:10:55,266 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as manager
+2023-10-14 17:11:02,386 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance
+2023-10-14 17:11:04,946 - BotLogger - DEBUG - User 1952435554 @mrovensky chose team 1952435554
+2023-10-14 17:11:06,483 - BotLogger - DEBUG - User 1952435554 @mrovensky tried to add balance amount 1
+2023-10-14 17:11:12,208 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:11:19,098 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:11:21,189 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:11:39,675 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:12:13,413 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:12:15,063 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:13:04,426 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:13:05,694 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:16:00,175 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:16:05,370 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:16:12,272 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:16:22,094 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:16:25,030 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:16:52,784 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:17:20,212 - BotLogger - DEBUG - User 1952435554 @mrovensky in chat 1952435554sent an unhandled message with content_type "text"
+2023-10-14 17:17:25,779 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:17:28,929 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:17:34,926 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:17:44,532 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:17:50,752 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:17:59,534 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:17:59,534 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:18:02,616 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
+2023-10-14 17:19:54,527 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:20:01,660 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:20:12,859 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:20:51,550 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:20:54,572 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:20:59,161 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:21:46,864 - BotLogger - DEBUG - User 1952435554 @mrovensky started the bot
+2023-10-14 17:21:49,713 - BotLogger - DEBUG - User 1952435554 @mrovensky requested help
+2023-10-14 17:21:53,430 - BotLogger - DEBUG - User 1952435554 @mrovensky started the registration
+2023-10-14 17:22:03,829 - BotLogger - DEBUG - User 1952435554 @mrovensky entered team name
+2023-10-14 17:22:08,499 - BotLogger - DEBUG - User 1952435554 @mrovensky requested reset
+2023-10-14 17:22:13,065 - BotLogger - DEBUG - User 1952435554 @mrovensky started admin registration
+2023-10-14 17:22:13,065 - BotLogger - DEBUG - User 1952435554 @mrovensky registered as admin
+2023-10-14 17:22:16,440 - BotLogger - DEBUG - User 1952435554 @mrovensky added balance
