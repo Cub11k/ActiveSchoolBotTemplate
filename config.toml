@@ -43,9 +43,9 @@ format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 [messages]
 welcome = "Welcome message"  # TODO
-help = "Help message"  # TODO
-anti_flood = "Anti flood message"  # TODO
-unknown_update = "This feature is not supported yet"  # TODO, be creative
+help = "Help"  # TODO
+anti_flood = "Вы отправили слишком много сообщений боту в короткое время."
+unknown_update = "бибибабабобу"  # TODO, be creative
 rating = "Rating message:\n\n{}"
 not_enough_teams = "Недостаточно команд для начала игры"
 not_enough_points = "Недостаточно КПшек для начала игры"
