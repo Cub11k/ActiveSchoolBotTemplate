@@ -5,7 +5,7 @@ from telebot.apihelper import ApiException
 import hashlib
 
 
-APPROVED_SYMBS = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя- '
+APPROVED_SYMBS = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя '
 
 def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
     result = True
@@ -21,7 +21,7 @@ def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
 
 def check_team_name(name: str) -> bool:
     result = False
-    if 5 <= len(name) <= 20 and all(s in APPROVED_SYMBS for s in name) and name[0].isupper():
+    if 5 <= len(name) <= 40 and all(s in APPROVED_SYMBS for s in name) and name[0].isupper() and name.count(' '):
         result = True
     return result
 
