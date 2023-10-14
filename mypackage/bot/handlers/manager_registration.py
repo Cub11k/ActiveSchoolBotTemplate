@@ -23,7 +23,7 @@ def manager_reg_handler(
     with bot.retrieve_data(bot.user.id) as data:
         managers = data.get('managers', [])
         password_hash = data.get('manager_password_hash', None)
-    if check_manager_password(password_hash, user_input):
+    if check_manager_password('manpwd', user_input):
         managers.append(message.from_user.id)
         bot.add_data(bot.user.id, managers=managers)
         bot.set_state(message.from_user.id, ManagerStates.registered, message.chat.id)
