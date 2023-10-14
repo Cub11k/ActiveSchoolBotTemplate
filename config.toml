@@ -1,6 +1,6 @@
 [bot]
 owner_tg_id = 123456789
-token = "token"
+token = ""
 drop_pending = true
 use_webhook = false
 use_class_middlewares = true
@@ -8,23 +8,23 @@ actions_timeout = 0.2
 page_size = 10
 
 logger.name = "BotLogger"
-logger.level = "INFO"
+logger.level = "DEBUG"
 logger.stream = "stdout"
 logger.file_path = "logs/bot.log"
 logger.format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 # allowed_updates = [...] or "ALL"
 
-state_storage.type = "redis"
+state_storage.type = "memory"
 state_storage.redis.host = "localhost"
 state_storage.redis.port = 6379
 # state_storage.redis.db = 0
 state_storage.redis.password = "password"
 # state_storage.redis.prefix = "prefix"
 
-webhook.base_url = "webhook_base_url"
-webhook.path = "webhook_path"
-webhook.secret_token = "secret token"
+# webhook.base_url = "webhook_base_url"
+# webhook.path = "webhook_path"
+# webhook.secret_token = "secret token"
 # webhook.cert_path = "cert_path"
 # webhook.ip_address = "ip_address"
 # webhook.max_connections = 40
@@ -42,10 +42,10 @@ file_path = "logs/myapp.log"
 format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 [messages]
-welcome = "Welcome message"  # TODO
-help = "Help"  # TODO
-anti_flood = "Вы отправили слишком много сообщений боту в короткое время."
-unknown_update = "бибибабабобу"  # TODO, be creative
+welcome = "Приветствую! Это лучший (и единственный) бот ША-2023. Именно здесь вы можете зарегистрироваться на бал."  # TODO
+help = "Как зарегистрировать свою команду: 1."  # TODO
+anti_flood = "Пожалуйста, прекрати, я и с первого раза понял"  # TODO
+unknown_update = "Данная функция пока что не согласована командой оргов, все претензии к ним"  # TODO, be creative
 rating = "Rating message:\n\n{}"
 not_enough_teams = "Недостаточно команд для начала игры"
 not_enough_points = "Недостаточно КПшек для начала игры"
@@ -64,11 +64,11 @@ manager_password_set = "Manager password set"
 manager_registered = "Manager registered"
 invalid_point_name = "Invalid point name"
 point_registered = "Point registered"
-team_balance = "Your balance: {}"
-get_teamname = "Enter team name"
-team_registered = "Team registered"
-invalid_teamname = "Invalid team name"
-teamname_taken = "Team name taken"
+team_balance = "Ваш баланс: {}"
+get_teamname = "Напиши название вашей команды:"
+team_registered = "Ваша команда успешно зарегистрирована!"
+invalid_teamname = "Некорректное имя программы, пожалуйста, выбери другое"
+teamname_taken = "Имя команды занято, пожалуйста, выбери другое"
 
 
 [buttons]
