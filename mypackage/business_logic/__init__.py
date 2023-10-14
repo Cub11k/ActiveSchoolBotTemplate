@@ -40,14 +40,15 @@ def get_hash(user_input: str) -> str:
 
 def check_admin_password(password_hash: str, user_input: str) -> bool:
     result = True
-    if hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest() != password_hash:
+    if user_input != password_hash:
         result = False
     return result
 
 
 def check_manager_password(password_hash: str, user_input: str) -> bool:
     result = True
-    if hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest() != password_hash:
+    # hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest())
+    if user_input != password_hash:
         result = False
     return result
 
@@ -61,7 +62,9 @@ def assign_starting_point_messages(teams: dict[int, dict], points: list[str], ba
     :return: Dictionary of starting point messages: {chat_id: message}
     """
     result = {}
-    # Assign starting points to teams
+
+
+
     return result
 
 
