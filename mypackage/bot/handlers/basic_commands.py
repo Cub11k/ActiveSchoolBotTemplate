@@ -36,6 +36,14 @@ def help_handler(
     logger.debug(f"User {message.from_user.id} @{message.from_user.username} requested help")
     bot.send_message(message.chat.id, messages.help)
 
+def register_handler(
+        message: Message,
+        bot: TeleBot,
+        messages: MessagesConfig,
+        logger: Logger,
+        **kwargs):
+    logger.debug(f"User {message.from_user.id} @{message.from_user.username} has tried to register")
+    bot.send_message(message.chat.id, messages.help)
 
 def reset_handler(
         message: Message,
@@ -69,6 +77,7 @@ def register_handlers(bot: TeleBot, buttons: ButtonsConfig):
     bot.register_message_handler(start_handler, commands=['start'], state=[None], pass_bot=True)
 
     bot.register_message_handler(help_handler, commands=['help'], pass_bot=True)
+    bot.register_message_handler(register_handler, commands=['register'], pass_bot=True)
     bot.register_message_handler(help_handler, text_equals=buttons.help, pass_bot=True)
 
     bot.register_message_handler(reset_handler, commands=['reset'], pass_bot=True)

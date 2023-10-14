@@ -70,7 +70,15 @@ def broadcast_starting_points(bot: TeleBot, messages: dict[int, str]) -> dict[in
 
     :param bot: TeleBot instance
     :param messages: Dictionary of messages: {chat_id: message}
-    :return: Dictionary of results: {chat_id: result}
+    :return:Dictionary of results: {chat_id: result}
     """
     result = {}
+
+    for i in messages.keys():
+        msgreturn = bot.send_message(i, messages[i])
+        if msgreturn.message_id:
+            result[i] = True
+        else:
+            result[i] = False
+
     return result
