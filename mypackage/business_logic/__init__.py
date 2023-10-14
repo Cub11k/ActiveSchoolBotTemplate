@@ -5,7 +5,10 @@ from telebot.apihelper import ApiException
 import hashlib
 
 
-APPROVED_SYMBS = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя- '
+LOWER_LETTERS = 'абвгдеёжзийклмнопрстуфхцчшщъыьэюя'
+UPPER_LETTERS = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
+EMPTY_SYMB = ' '
+CONNECT_SYMB = '-'
 
 def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
     result = True
@@ -20,16 +23,35 @@ def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
 # _______________________________________________________________
 
 def check_team_name(name: str) -> bool:
-    result = False
-    if 5 <= len(name) <= 20 and all(s in APPROVED_SYMBS for s in name) and name[0].isupper():
-        result = True
+    result = True
+    should_upper = True
+    if len(name) < 3 or len(name) > 20:
+        return False
+    
+    for symb in name:
+        if should_upper and not symb in UPPER_LETTERS:
+            return False
+        elif symb == CONNECT_SYMB or symb == EMPTY_SYMB:
+            should_upper = True
+            continue
+        elif symb in UPPER_LETTERS:
+            return False
+        elif not symb in LOWER_LETTERS:
+            return False
+        should_upper = False
     return result
 
 
 def check_point_name(name: str) -> bool:
-    result = False
-    if 2 <= len(name) <= 20 and all(s in APPROVED_SYMBS for s in name):
-        result = True
+    result = True
+    if len(name) < 2 or len(name) > 30:
+        return False
+    
+    if not name[0] in UPPER_LETTERS:
+        result = False
+    for symb in name[1:]:
+        if (not symb in LOWER_LETTERS) and symb != CONNECT_SYMB:
+            return False
     return result
 
 
