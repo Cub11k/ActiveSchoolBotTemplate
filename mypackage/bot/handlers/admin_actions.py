@@ -15,7 +15,7 @@ def rating_handler(
         messages: MessagesConfig,
         logger: Logger,
         **kwargs):
-    logger.debug(f"User {message.from_user.id} @{message.from_user.username} added balance")
+    logger.debug(f"User {message.from_user.id} @{message.from_user.username} checked the rating")
     with bot.retrieve_data(bot.user.id) as data:
         teams = data.get('teams', {})
     teams_sorted = sorted(teams.values(), key=lambda x: x['balance'], reverse=True)
