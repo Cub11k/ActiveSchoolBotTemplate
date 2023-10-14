@@ -1,6 +1,6 @@
 [bot]
 owner_tg_id = 123456789
-token = "token"
+token = ""
 drop_pending = true
 use_webhook = false
 use_class_middlewares = true
@@ -8,23 +8,23 @@ actions_timeout = 0.2
 page_size = 10
 
 logger.name = "BotLogger"
-logger.level = "INFO"
+logger.level = "DEBUG"
 logger.stream = "stdout"
 logger.file_path = "logs/bot.log"
 logger.format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 # allowed_updates = [...] or "ALL"
 
-state_storage.type = "redis"
+state_storage.type = "memory"
 state_storage.redis.host = "localhost"
 state_storage.redis.port = 6379
 # state_storage.redis.db = 0
 state_storage.redis.password = "password"
 # state_storage.redis.prefix = "prefix"
 
-webhook.base_url = "webhook_base_url"
-webhook.path = "webhook_path"
-webhook.secret_token = "secret token"
+# webhook.base_url = "webhook_base_url"
+# webhook.path = "webhook_path"
+# webhook.secret_token = "secret token"
 # webhook.cert_path = "cert_path"
 # webhook.ip_address = "ip_address"
 # webhook.max_connections = 40
@@ -43,9 +43,9 @@ format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 
 [messages]
 welcome = "Welcome message"  # TODO
-help = "Help message"  # TODO
-anti_flood = "Anti flood message"  # TODO
-unknown_update = "This feature is not supported yet"  # TODO, be creative
+help = "Help"  # TODO
+anti_flood = "Вы отправили слишком много сообщений боту в короткое время."
+unknown_update = "бибибабабобу"  # TODO, be creative
 rating = "Rating message:\n\n{}"
 not_enough_teams = "Недостаточно команд для начала игры"
 not_enough_points = "Недостаточно КПшек для начала игры"
