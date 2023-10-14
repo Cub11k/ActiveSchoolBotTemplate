@@ -11,7 +11,6 @@ EMPTY_SYMB = ' '
 CONNECT_SYMB = '-'
 UTF = 'utf-8'
 
-
 def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
     result = True
     # Send text to chat_id
@@ -84,9 +83,21 @@ def assign_starting_point_messages(teams: dict[int, dict], points: list[str], ba
     :param base_message: Base message to be formatted with point name via str.format()
     :return: Dictionary of starting point messages: {chat_id: message}
     """
+
     result = {}
 
+    try:
+        if (len(teams.keys()) > len(points)):
+            raise ValueError
 
+        counter = 1
+        for i in teams.keys():
+            team_chat = teams[i]['chat_id']
+            result[team_chat] = base_message.format(counter)
+            counter += 1
+
+    except ValueError:
+        print('You have less points than you have teams :skull:')
 
     return result
 
