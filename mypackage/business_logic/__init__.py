@@ -2,6 +2,10 @@ from telebot import TeleBot
 from telebot.util import antiflood
 from telebot.apihelper import ApiException
 
+import hashlib
+
+
+APPROVED_SYMBS = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя- '
 
 def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
     result = True
@@ -16,32 +20,36 @@ def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
 # _______________________________________________________________
 
 def check_team_name(name: str) -> bool:
-    result = True
-    # Check the team name, e.g. length, symbols, etc.
+    result = False
+    if 5 <= len(name) <= 20 and all(s in APPROVED_SYMBS for s in name) and name[0].isupper():
+        result = True
     return result
 
 
 def check_point_name(name: str) -> bool:
-    result = True
-    # Check the point name, e.g. length, symbols, etc.
+    result = False
+    if 2 <= len(name) <= 20 and all(s in APPROVED_SYMBS for s in name):
+        result = True
     return result
 
 
 def get_hash(user_input: str) -> str:
-    result = ""
-    # Get the hash of the input
+    result = hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest()
     return result
 
 
 def check_admin_password(password_hash: str, user_input: str) -> bool:
     result = True
-    # Get the sha_256 hash of the input and compare it with the password_hash
+    if user_input != password_hash:
+        result = False
     return result
 
 
 def check_manager_password(password_hash: str, user_input: str) -> bool:
     result = True
-    # Get the sha_256 hash of the input and compare it with the password_hash
+    # hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest())
+    if user_input != password_hash:
+        result = False
     return result
 
 
@@ -54,7 +62,9 @@ def assign_starting_point_messages(teams: dict[int, dict], points: list[str], ba
     :return: Dictionary of starting point messages: {chat_id: message}
     """
     result = {}
-    # Assign starting points to teams
+
+
+
     return result
 
 
@@ -63,7 +73,15 @@ def broadcast_starting_points(bot: TeleBot, messages: dict[int, str]) -> dict[in
 
     :param bot: TeleBot instance
     :param messages: Dictionary of messages: {chat_id: message}
-    :return: Dictionary of results: {chat_id: result}
+    :return:Dictionary of results: {chat_id: result}
     """
     result = {}
+    
+    for i in messages.keys():
+        msgreturn = bot.send_message(i, messages[i])
+        if msgreturn.message_id:
+            result[i] = True
+        else:
+            result[i] = False
+
     return result
