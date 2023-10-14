@@ -64,14 +64,20 @@ def get_hash(user_input: str) -> str:
 
 def check_admin_password(password_hash: str, user_input: str) -> bool:
     result = True
-    if hashlib.sha256(bytes(user_input, UTF)).hexdigest() != password_hash:
+    input_hash = get_hash(user_input)
+    if input_hash != password_hash:
         result = False
     return result
 
 
 def check_manager_password(password_hash: str, user_input: str) -> bool:
     result = True
+<<<<<<< HEAD
     if hashlib.sha256(bytes(user_input, UTF)).hexdigest() != password_hash:
+=======
+    input_hash = get_hash(user_input)
+    if input_hash != password_hash:
+>>>>>>> upstream/master
         result = False
     return result
 

@@ -4,7 +4,7 @@ from telebot import TeleBot
 from telebot.types import Message
 
 from ...config.models import MessagesConfig
-from ...business_logic import check_manager_password
+from ...business_logic import check_manager_password, get_hash
 
 from ..states import UnregisteredStates, ManagerStates
 
@@ -22,8 +22,8 @@ def manager_reg_handler(
     user_input = message.text.split(' ', maxsplit=1)[1]
     with bot.retrieve_data(bot.user.id) as data:
         managers = data.get('managers', [])
-        password_hash = data.get('manager_password_hash', None)
-    if user_input == 'managerpwd': #check_manager_password('manpwd', user_input):
+        password_hash = data.get('manager_password_hash', get_hash('managerpwd'))
+    if check_manager_password(password_hash, user_input):
         managers.append(message.from_user.id)
         bot.add_data(bot.user.id, managers=managers)
         bot.set_state(message.from_user.id, ManagerStates.registered, message.chat.id)

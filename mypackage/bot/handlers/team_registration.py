@@ -33,7 +33,7 @@ def team_name_handler(
         if message.text in [team['name'] for team in teams.values()]:
             bot.send_message(message.chat.id, messages.teamname_taken)
             return
-        teams[message.from_user.id] = {"name": message.text, "balance": 0, "chat_id": message.chat.id}
+        teams[str(message.from_user.id)] = {"name": message.text, "balance": 0, "chat_id": message.chat.id}
         bot.add_data(bot.user.id, teams=teams)
         bot.set_state(message.from_user.id, TeamStates.registered, message.chat.id)
         logger.debug(f"User {message.from_user.id} @{message.from_user.username} registered as team {message.text}")
