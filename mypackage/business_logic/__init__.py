@@ -9,6 +9,7 @@ LOWER_LETTERS = 'абвгдеёжзийклмнопрстуфхцчшщъыьэ�
 UPPER_LETTERS = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
 EMPTY_SYMB = ' '
 CONNECT_SYMB = '-'
+UTF = 'utf-8'
 
 def send_text(bot: TeleBot, chat_id: int, text: str) -> bool:
     result = True
@@ -29,7 +30,7 @@ def check_team_name(name: str) -> bool:
         return False
     
     for symb in name:
-        if should_upper and not symb in UPPER_LETTERS:
+        if should_upper and not (symb in UPPER_LETTERS):
             return False
         elif symb == CONNECT_SYMB or symb == EMPTY_SYMB:
             should_upper = True
@@ -56,21 +57,20 @@ def check_point_name(name: str) -> bool:
 
 
 def get_hash(user_input: str) -> str:
-    result = hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest()
+    result = hashlib.sha256(bytes(user_input, UTF)).hexdigest()
     return result
 
 
 def check_admin_password(password_hash: str, user_input: str) -> bool:
     result = True
-    if user_input != password_hash:
+    if hashlib.sha256(bytes(user_input, UTF)).hexdigest() != password_hash:
         result = False
     return result
 
 
 def check_manager_password(password_hash: str, user_input: str) -> bool:
     result = True
-    # hashlib.sha256(bytes(user_input, 'utf-8')).hexdigest())
-    if user_input != password_hash:
+    if hashlib.sha256(bytes(user_input, UTF)).hexdigest() != password_hash:
         result = False
     return result
 
