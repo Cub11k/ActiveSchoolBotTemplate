@@ -22,8 +22,7 @@ def admin_reg_handler(
     user_input = message.text.split(' ', maxsplit=1)[1]
     with bot.retrieve_data(bot.user.id) as data:
         admins = data.get('admins', [])
-        password_hash = data.get('admin_password_hash', get_hash('pwd'))
-
+        password_hash = data.get('admin_password_hash', get_hash('adminpwd'))
     if check_admin_password(password_hash, user_input):
         admins.append(message.from_user.id)
         bot.add_data(bot.user.id, admins=admins)

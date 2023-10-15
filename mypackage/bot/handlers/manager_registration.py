@@ -22,7 +22,7 @@ def manager_reg_handler(
     user_input = message.text.split(' ', maxsplit=1)[1]
     with bot.retrieve_data(bot.user.id) as data:
         managers = data.get('managers', [])
-        password_hash = data.get('manager_password_hash', get_hash('manpwd'))
+        password_hash = data.get('manager_password_hash', get_hash('managerpwd'))
     if check_manager_password(password_hash, user_input):
         managers.append(message.from_user.id)
         bot.add_data(bot.user.id, managers=managers)
