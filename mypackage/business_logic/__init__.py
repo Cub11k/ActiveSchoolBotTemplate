@@ -72,36 +72,30 @@ def check_admin_password(password_hash: str, user_input: str) -> bool:
 
 def check_manager_password(password_hash: str, user_input: str) -> bool:
     result = True
-<<<<<<< HEAD
-    if hashlib.sha256(bytes(user_input, UTF)).hexdigest() != password_hash:
-=======
     input_hash = get_hash(user_input)
     if input_hash != password_hash:
->>>>>>> upstream/master
         result = False
     return result
 
 
 def assign_starting_point_messages(teams: dict[int, dict], points: list[str], base_message: str) -> dict[int, str]:
-    """
-
-    :param teams: Dictionary of teams: {user_id: {name: str, balance: int, chat_id: int}}
-    :param points: List of point names
-    :param base_message: Base message to be formatted with point name via str.format()
-    :return: Dictionary of starting point messages: {chat_id: message}
-    """
-
     result = {}
 
     try:
         if (len(teams.keys()) > len(points)):
             raise ValueError
 
-        counter = 0
+        c1 = 0
+
         for i in teams.keys():
+            c2 = 0
             team_chat = teams[i]['chat_id']
-            result[team_chat] = base_message.format(points[counter])
-            counter += 1
+            message = points[c1]
+            for j in range(len(points) - 1):
+                c2 += 1
+                message = message + ', ' + points[(c1 + c2) % len(points)]
+            result[team_chat] = base_message.format(message)
+            c1 += 1
 
     except ValueError:
         print('You have less points than you have teams :skull:')
@@ -110,12 +104,6 @@ def assign_starting_point_messages(teams: dict[int, dict], points: list[str], ba
 
 
 def broadcast_starting_points(bot: TeleBot, messages: dict[int, str]) -> dict[int, bool]:
-    """
-
-    :param bot: TeleBot instance
-    :param messages: Dictionary of messages: {chat_id: message}
-    :return:Dictionary of results: {chat_id: result}
-    """
     result = {}
     
     for i in messages.keys():
